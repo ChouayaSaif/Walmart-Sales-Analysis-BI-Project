@@ -1,0 +1,677 @@
+CUSTOMER_NAME,CUSTOMER_TYPE,CUSTOMER_AGE,CUSTOMER_SEGMENT,GENDER
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+Giulietta Dortch,Normal,,Corporate,Female
+Raymond Fair,Normal,,Small Business,Female
+Debra Catini,Normal,43,Small Business,Female
+Nathan Mautz,Normal,45,Corporate,Female
+Christina Vanderzanden,Normal,46,Small Business,Female
+Nat Gilpin,Normal,46,Consumer,Female
+Fred McMath,Normal,48,Small Business,Female
+Eleni McCrary,Normal,49,Corporate,Female
+Barry Franz,Normal,51,Corporate,Female
+Kean Thornton,Normal,55,Corporate,Female
+Doug Bickford,Normal,55,Corporate,Female
+Kean Thornton,Normal,61,Corporate,Female
+Julia West,Normal,66,Consumer,Female
+Mitch Willingham,Normal,66,Corporate,Female
+Toby Swindell,Member,45,Small Business,Female
+Linda Southworth,Member,45,Consumer,Female
+Mike Gockenbach,Member,50,Consumer,Female
+Paul Stevenson,Member,55,Corporate,Female
+Christine Sundaresam,Member,55,Small Business,Female
+Benjamin Patterson,Member,59,Corporate,Female
+Alyssa Crouse,Member,65,Corporate,Female
+Roy Phan,Member,69,Corporate,Female
+Alan Hwang,Member,74,Corporate,Female
+Dave Hallsten,Member,76,Home Office,Female
+Mitch Webber,Normal,,Corporate,Male
+Kelly Williams,Normal,66,Corporate,Male
+Naresj Patel,Normal,68,Corporate,Male
+Sonia Sunley,Member,,Small Business,Female
+Roland Fjeld,Member,47,Corporate,Female
+Andrew Allen,Member,48,Corporate,Female
+Anthony Johnson,Member,48,Small Business,Female
+Fred Harton,Member,48,Home Office,Female
+Giulietta Dortch,Member,53,Consumer,Female
+Karen Carlisle,Member,56,Home Office,Female
+Steve Nguyen,Member,58,Consumer,Female
+Stewart Visinsky,Member,58,Corporate,Female
+Brian DeCherney,Member,58,Corporate,Female
+Peter Fuller,Member,59,Consumer,Female
+Michelle Huthwaite,Member,66,Home Office,Female
+Muhammed Yedwab,Member,68,Consumer,Female
+Pauline Webber,Member,69,Consumer,Female
+Giulietta Dortch,Normal,,Corporate,Female
+Raymond Fair,Normal,,Small Business,Female
+Debra Catini,Normal,43,Small Business,Female
+Nathan Mautz,Normal,45,Corporate,Female
+Christina Vanderzanden,Normal,46,Small Business,Female
+Nat Gilpin,Normal,46,Consumer,Female
+Fred McMath,Normal,48,Small Business,Female
+Eleni McCrary,Normal,49,Corporate,Female
+Barry Franz,Normal,51,Corporate,Female
+Kean Thornton,Normal,55,Corporate,Female
+Doug Bickford,Normal,55,Corporate,Female
+Kean Thornton,Normal,61,Corporate,Female
+Julia West,Normal,66,Consumer,Female
+Mitch Willingham,Normal,66,Corporate,Female
+Toby Swindell,Member,45,Small Business,Female
+Linda Southworth,Member,45,Consumer,Female
+Mike Gockenbach,Member,50,Consumer,Female
+Paul Stevenson,Member,55,Corporate,Female
+Christine Sundaresam,Member,55,Small Business,Female
+Benjamin Patterson,Member,59,Corporate,Female
+Alyssa Crouse,Member,65,Corporate,Female
+Roy Phan,Member,69,Corporate,Female
+Alan Hwang,Member,74,Corporate,Female
+Dave Hallsten,Member,76,Home Office,Female
+Giulietta Dortch,Normal,,Corporate,Female
+Raymond Fair,Normal,,Small Business,Female
+Debra Catini,Normal,43,Small Business,Female
+Nathan Mautz,Normal,45,Corporate,Female
+Christina Vanderzanden,Normal,46,Small Business,Female
+Nat Gilpin,Normal,46,Consumer,Female
+Fred McMath,Normal,48,Small Business,Female
+Eleni McCrary,Normal,49,Corporate,Female
+Barry Franz,Normal,51,Corporate,Female
+Kean Thornton,Normal,55,Corporate,Female
+Doug Bickford,Normal,55,Corporate,Female
+Kean Thornton,Normal,61,Corporate,Female
+Julia West,Normal,66,Consumer,Female
+Mitch Willingham,Normal,66,Corporate,Female
+Toby Swindell,Member,45,Small Business,Female
+Linda Southworth,Member,45,Consumer,Female
+Mike Gockenbach,Member,50,Consumer,Female
+Paul Stevenson,Member,55,Corporate,Female
+Christine Sundaresam,Member,55,Small Business,Female
+Benjamin Patterson,Member,59,Corporate,Female
+Alyssa Crouse,Member,65,Corporate,Female
+Roy Phan,Member,69,Corporate,Female
+Alan Hwang,Member,74,Corporate,Female
+Dave Hallsten,Member,76,Home Office,Female
+Mitch Webber,Normal,,Corporate,Male
+Kelly Williams,Normal,66,Corporate,Male
+Naresj Patel,Normal,68,Corporate,Male
+Sonia Sunley,Member,,Small Business,Female
+Roland Fjeld,Member,47,Corporate,Female
+Andrew Allen,Member,48,Corporate,Female
+Anthony Johnson,Member,48,Small Business,Female
+Fred Harton,Member,48,Home Office,Female
+Giulietta Dortch,Member,53,Consumer,Female
+Karen Carlisle,Member,56,Home Office,Female
+Steve Nguyen,Member,58,Consumer,Female
+Stewart Visinsky,Member,58,Corporate,Female
+Brian DeCherney,Member,58,Corporate,Female
+Peter Fuller,Member,59,Consumer,Female
+Michelle Huthwaite,Member,66,Home Office,Female
+Muhammed Yedwab,Member,68,Consumer,Female
+Pauline Webber,Member,69,Consumer,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+Giulietta Dortch,Normal,,Corporate,Female
+Raymond Fair,Normal,,Small Business,Female
+Debra Catini,Normal,43,Small Business,Female
+Nathan Mautz,Normal,45,Corporate,Female
+Christina Vanderzanden,Normal,46,Small Business,Female
+Nat Gilpin,Normal,46,Consumer,Female
+Fred McMath,Normal,48,Small Business,Female
+Eleni McCrary,Normal,49,Corporate,Female
+Barry Franz,Normal,51,Corporate,Female
+Kean Thornton,Normal,55,Corporate,Female
+Doug Bickford,Normal,55,Corporate,Female
+Kean Thornton,Normal,61,Corporate,Female
+Julia West,Normal,66,Consumer,Female
+Mitch Willingham,Normal,66,Corporate,Female
+Toby Swindell,Member,45,Small Business,Female
+Linda Southworth,Member,45,Consumer,Female
+Mike Gockenbach,Member,50,Consumer,Female
+Paul Stevenson,Member,55,Corporate,Female
+Christine Sundaresam,Member,55,Small Business,Female
+Benjamin Patterson,Member,59,Corporate,Female
+Alyssa Crouse,Member,65,Corporate,Female
+Roy Phan,Member,69,Corporate,Female
+Alan Hwang,Member,74,Corporate,Female
+Dave Hallsten,Member,76,Home Office,Female
+Mitch Webber,Normal,,Corporate,Male
+Kelly Williams,Normal,66,Corporate,Male
+Naresj Patel,Normal,68,Corporate,Male
+Sonia Sunley,Member,,Small Business,Female
+Roland Fjeld,Member,47,Corporate,Female
+Andrew Allen,Member,48,Corporate,Female
+Anthony Johnson,Member,48,Small Business,Female
+Fred Harton,Member,48,Home Office,Female
+Giulietta Dortch,Member,53,Consumer,Female
+Karen Carlisle,Member,56,Home Office,Female
+Steve Nguyen,Member,58,Consumer,Female
+Stewart Visinsky,Member,58,Corporate,Female
+Brian DeCherney,Member,58,Corporate,Female
+Peter Fuller,Member,59,Consumer,Female
+Michelle Huthwaite,Member,66,Home Office,Female
+Muhammed Yedwab,Member,68,Consumer,Female
+Pauline Webber,Member,69,Consumer,Female
+Giulietta Dortch,Normal,,Corporate,Female
+Raymond Fair,Normal,,Small Business,Female
+Debra Catini,Normal,43,Small Business,Female
+Nathan Mautz,Normal,45,Corporate,Female
+Christina Vanderzanden,Normal,46,Small Business,Female
+Nat Gilpin,Normal,46,Consumer,Female
+Fred McMath,Normal,48,Small Business,Female
+Eleni McCrary,Normal,49,Corporate,Female
+Barry Franz,Normal,51,Corporate,Female
+Kean Thornton,Normal,55,Corporate,Female
+Doug Bickford,Normal,55,Corporate,Female
+Kean Thornton,Normal,61,Corporate,Female
+Julia West,Normal,66,Consumer,Female
+Mitch Willingham,Normal,66,Corporate,Female
+Toby Swindell,Member,45,Small Business,Female
+Linda Southworth,Member,45,Consumer,Female
+Mike Gockenbach,Member,50,Consumer,Female
+Paul Stevenson,Member,55,Corporate,Female
+Christine Sundaresam,Member,55,Small Business,Female
+Benjamin Patterson,Member,59,Corporate,Female
+Alyssa Crouse,Member,65,Corporate,Female
+Roy Phan,Member,69,Corporate,Female
+Alan Hwang,Member,74,Corporate,Female
+Dave Hallsten,Member,76,Home Office,Female
+Mitch Webber,Normal,,Corporate,Male
+Kelly Williams,Normal,66,Corporate,Male
+Naresj Patel,Normal,68,Corporate,Male
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+George Ashbrook,Normal,,Consumer,Female
+Victoria Brennan,Normal,,Small Business,Female
+Dennis Kane,Normal,,Small Business,Female
+Lindsay Castell,Normal,,Small Business,Female
+Sonia Sunley,Normal,,Corporate,Female
+Arthur Wiediger,Normal,,Corporate,Female
+Vivian Mathis,Normal,41,Home Office,Female
+Patrick Gardner,Normal,42,Consumer,Female
+Eva Jacobs,Normal,44,Home Office,Female
+Matt Collister,Normal,44,Home Office,Female
+Sonia Sunley,Normal,46,Small Business,Female
+Matt Connell,Normal,50,Corporate,Female
+Evan Henry,Normal,51,Corporate,Female
+Phillip Breyer,Normal,51,Corporate,Female
+Patrick Jones,Normal,54,Home Office,Female
+Liz Carlisle,Normal,56,Corporate,Female
+Jack O'Briant,Normal,56,Consumer,Female
+Bobby Trafton,Normal,59,Small Business,Female
+Valerie Dominguez,Normal,61,Corporate,Female
+Sam Craven,Normal,65,Home Office,Female
+Stephanie Ulpright,Normal,70,Consumer,Female
+John Murray,Normal,70,Small Business,Female
+Deanra Eno,Normal,73,Corporate,Female
+Giulietta Dortch,Normal,,Corporate,Female
+Raymond Fair,Normal,,Small Business,Female
+Debra Catini,Normal,43,Small Business,Female
+Nathan Mautz,Normal,45,Corporate,Female
+Christina Vanderzanden,Normal,46,Small Business,Female
+Nat Gilpin,Normal,46,Consumer,Female
+Fred McMath,Normal,48,Small Business,Female
+Eleni McCrary,Normal,49,Corporate,Female
+Barry Franz,Normal,51,Corporate,Female
+Kean Thornton,Normal,55,Corporate,Female
+Doug Bickford,Normal,55,Corporate,Female
+Kean Thornton,Normal,61,Corporate,Female
+Julia West,Normal,66,Consumer,Female
+Mitch Willingham,Normal,66,Corporate,Female
+Toby Swindell,Member,45,Small Business,Female
+Linda Southworth,Member,45,Consumer,Female
+Mike Gockenbach,Member,50,Consumer,Female
+Paul Stevenson,Member,55,Corporate,Female
+Christine Sundaresam,Member,55,Small Business,Female
+Benjamin Patterson,Member,59,Corporate,Female
+Alyssa Crouse,Member,65,Corporate,Female
+Roy Phan,Member,69,Corporate,Female
+Alan Hwang,Member,74,Corporate,Female
+Dave Hallsten,Member,76,Home Office,Female
+Mitch Webber,Normal,,Corporate,Male
+Kelly Williams,Normal,66,Corporate,Male
+Naresj Patel,Normal,68,Corporate,Male
+Sonia Sunley,Member,,Small Business,Female
+Roland Fjeld,Member,47,Corporate,Female
+Andrew Allen,Member,48,Corporate,Female
+Anthony Johnson,Member,48,Small Business,Female
+Fred Harton,Member,48,Home Office,Female
+Giulietta Dortch,Member,53,Consumer,Female
+Karen Carlisle,Member,56,Home Office,Female
+Steve Nguyen,Member,58,Consumer,Female
+Stewart Visinsky,Member,58,Corporate,Female
+Brian DeCherney,Member,58,Corporate,Female
+Peter Fuller,Member,59,Consumer,Female
+Michelle Huthwaite,Member,66,Home Office,Female
+Muhammed Yedwab,Member,68,Consumer,Female
+Pauline Webber,Member,69,Consumer,Female
+Giulietta Dortch,Normal,,Corporate,Female
+Raymond Fair,Normal,,Small Business,Female
+Debra Catini,Normal,43,Small Business,Female
+Nathan Mautz,Normal,45,Corporate,Female
+Christina Vanderzanden,Normal,46,Small Business,Female
+Nat Gilpin,Normal,46,Consumer,Female
+Fred McMath,Normal,48,Small Business,Female
+Eleni McCrary,Normal,49,Corporate,Female
+Barry Franz,Normal,51,Corporate,Female
+Kean Thornton,Normal,55,Corporate,Female
+Doug Bickford,Normal,55,Corporate,Female
+Kean Thornton,Normal,61,Corporate,Female
+Julia West,Normal,66,Consumer,Female
+Mitch Willingham,Normal,66,Corporate,Female
+Toby Swindell,Member,45,Small Business,Female
+Linda Southworth,Member,45,Consumer,Female
+Mike Gockenbach,Member,50,Consumer,Female
+Paul Stevenson,Member,55,Corporate,Female
+Christine Sundaresam,Member,55,Small Business,Female
+Benjamin Patterson,Member,59,Corporate,Female
+Alyssa Crouse,Member,65,Corporate,Female
+Roy Phan,Member,69,Corporate,Female
+Alan Hwang,Member,74,Corporate,Female
+Dave Hallsten,Member,76,Home Office,Female

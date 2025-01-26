@@ -1,0 +1,677 @@
+PROMOTION_ID,PROMOTION,DISCOUNT_X,DISCOUNT_Y,FINAL_PRICE
+PROMO_001,Early Bird Discount,2.2,0.03,19.78
+PROMO_002,Seasonal Offer,2.2,0.01,19.78
+PROMO_003,Cyber Monday,2.2,0.1,19.78
+PROMO_004,Holiday Promo,2.2,0.0,19.78
+PROMO_005,Early Bird Discount,2.2,0.08,19.78
+PROMO_006,Fall Clearance,2.2,0.0,19.78
+PROMO_007,Back to School,2.2,0.05,19.78
+PROMO_008,Back to School,2.2,0.02,19.78
+PROMO_009,Summer Discount,2.2,0.02,19.78
+PROMO_010,Black Friday,2.2,0.0,19.78
+PROMO_011,Free Shipping,2.2,0.05,19.78
+PROMO_012,Fall Clearance,2.2,0.02,19.78
+PROMO_013,Winter Special,2.2,0.05,19.78
+PROMO_014,Fall Clearance,2.2,0.04,19.78
+PROMO_015,Summer Discount,2.2,0.01,19.78
+PROMO_016,Back to School,2.2,0.04,19.78
+PROMO_017,Limited Time Deal,2.2,0.06,19.78
+PROMO_018,Holiday Promo,2.2,0.0,19.78
+PROMO_019,Winter Special,2.2,0.04,19.78
+PROMO_020,Seasonal Offer,2.2,0.09,19.78
+PROMO_021,Seasonal Offer,2.2,0.1,19.78
+PROMO_022,End of Season,2.2,0.06,19.78
+PROMO_023,Weekend Special,2.2,0.07,19.78
+PROMO_024,Free Shipping,2.2,0.03,19.78
+PROMO_025,Back to School,2.2,0.01,19.78
+PROMO_026,Cyber Monday,2.2,0.1,19.78
+PROMO_027,End of Season,2.2,0.0,19.78
+PROMO_028,New Year Deal,2.2,0.08,19.78
+PROMO_029,End of Season,2.2,0.0,19.78
+PROMO_030,Early Bird Discount,2.2,0.05,19.78
+PROMO_031,Weekend Special,2.2,0.02,19.78
+PROMO_032,Summer Discount,2.2,0.02,19.78
+PROMO_033,New Year Deal,2.2,0.0,19.78
+PROMO_034,New Year Deal,2.2,0.05,19.78
+PROMO_035,Seasonal Offer,2.2,0.02,19.78
+PROMO_036,Flash Sale,2.2,0.05,19.78
+PROMO_037,Summer Discount,2.2,0.04,19.78
+PROMO_038,Fall Clearance,2.2,0.01,19.78
+PROMO_039,Back to School,2.2,0.04,19.78
+PROMO_040,End of Season,2.2,0.06,19.78
+PROMO_041,Seasonal Offer,2.2,0.0,19.78
+PROMO_042,Back to School,2.2,0.04,19.78
+PROMO_043,Spring Sale,2.2,0.09,19.78
+PROMO_044,Early Bird Discount,2.2,0.1,19.78
+PROMO_045,Spring Sale,2.2,0.06,19.78
+PROMO_046,Bundle Offer,2.2,0.07,19.78
+PROMO_047,Cyber Monday,0.26,0.03,2.08
+PROMO_048,Member Exclusive,0.26,0.01,2.08
+PROMO_049,New Year Deal,0.26,0.1,2.08
+PROMO_050,Winter Special,0.26,0.0,2.08
+PROMO_051,Back to School,0.26,0.08,2.08
+PROMO_052,Bundle Offer,0.26,0.0,2.08
+PROMO_053,Weekend Special,0.26,0.05,2.08
+PROMO_054,Buy One Get One,0.26,0.02,2.08
+PROMO_055,Member Exclusive,0.26,0.02,2.08
+PROMO_056,Free Shipping,0.26,0.0,2.08
+PROMO_057,Bundle Offer,0.26,0.05,2.08
+PROMO_058,End of Season,0.26,0.02,2.08
+PROMO_059,Spring Sale,0.26,0.05,2.08
+PROMO_060,Cyber Monday,0.26,0.04,2.08
+PROMO_061,Holiday Promo,0.26,0.01,2.08
+PROMO_062,Member Exclusive,0.26,0.04,2.08
+PROMO_063,Weekend Special,0.26,0.06,2.08
+PROMO_064,New Year Deal,0.26,0.0,2.08
+PROMO_065,Buy One Get One,0.26,0.04,2.08
+PROMO_066,Cyber Monday,0.26,0.09,2.08
+PROMO_067,Cyber Monday,0.26,0.1,2.08
+PROMO_068,Flash Sale,0.26,0.06,2.08
+PROMO_069,Clearance Sale,0.26,0.07,2.08
+PROMO_070,Fall Clearance,0.26,0.03,2.08
+PROMO_071,Winter Special,0.26,0.01,2.08
+PROMO_072,Bundle Offer,0.26,0.1,2.08
+PROMO_073,Spring Sale,0.26,0.0,2.08
+PROMO_074,Holiday Promo,0.26,0.08,2.08
+PROMO_075,Back to School,0.26,0.0,2.08
+PROMO_076,Spring Sale,0.26,0.05,2.08
+PROMO_077,Buy One Get One,0.26,0.02,2.08
+PROMO_078,Weekend Special,0.26,0.02,2.08
+PROMO_079,Member Exclusive,0.26,0.0,2.08
+PROMO_080,Bundle Offer,0.26,0.05,2.08
+PROMO_081,Bundle Offer,0.26,0.02,2.08
+PROMO_082,Buy One Get One,0.26,0.05,2.08
+PROMO_083,Fall Clearance,0.26,0.04,2.08
+PROMO_084,Fall Clearance,0.26,0.01,2.08
+PROMO_085,Free Shipping,0.26,0.04,2.08
+PROMO_086,Summer Discount,0.26,0.06,2.08
+PROMO_087,Clearance Sale,0.26,0.0,2.08
+PROMO_088,Buy One Get One,0.26,0.04,2.08
+PROMO_089,Clearance Sale,0.26,0.09,2.08
+PROMO_090,Fall Clearance,0.26,0.1,2.08
+PROMO_091,Member Exclusive,0.26,0.06,2.08
+PROMO_092,New Year Deal,0.26,0.07,2.08
+PROMO_093,Back to School,0.39,0.03,2.97
+PROMO_094,Buy One Get One,0.39,0.01,2.97
+PROMO_095,Cyber Monday,0.39,0.1,2.97
+PROMO_096,Clearance Sale,0.39,0.0,2.97
+PROMO_097,Fall Clearance,0.39,0.08,2.97
+PROMO_098,Early Bird Discount,0.39,0.0,2.97
+PROMO_099,Spring Sale,0.39,0.05,2.97
+PROMO_100,Holiday Promo,0.39,0.02,2.97
+PROMO_101,Fall Clearance,0.39,0.02,2.97
+PROMO_102,Flash Sale,0.39,0.0,2.97
+PROMO_103,Back to School,0.39,0.05,2.97
+PROMO_104,Fall Clearance,0.39,0.02,2.97
+PROMO_105,Back to School,0.39,0.05,2.97
+PROMO_106,Clearance Sale,0.39,0.04,2.97
+PROMO_107,End of Season,0.39,0.01,2.97
+PROMO_108,Free Shipping,0.39,0.04,2.97
+PROMO_109,Early Bird Discount,0.39,0.06,2.97
+PROMO_110,Limited Time Deal,0.39,0.0,2.97
+PROMO_111,Black Friday,0.39,0.04,2.97
+PROMO_112,Limited Time Deal,0.39,0.09,2.97
+PROMO_113,Summer Discount,0.39,0.1,2.97
+PROMO_114,Black Friday,0.39,0.06,2.97
+PROMO_115,Limited Time Deal,0.39,0.07,2.97
+PROMO_116,Limited Time Deal,0.39,0.02,2.97
+PROMO_117,Limited Time Deal,0.39,0.02,2.97
+PROMO_118,End of Season,0.39,0.03,2.97
+PROMO_119,Buy One Get One,0.39,0.09,2.97
+PROMO_120,End of Season,0.39,0.08,2.97
+PROMO_121,Member Exclusive,0.39,0.07,2.97
+PROMO_122,Winter Special,0.39,0.0,2.97
+PROMO_123,Seasonal Offer,0.39,0.05,2.97
+PROMO_124,Limited Time Deal,0.39,0.09,2.97
+PROMO_125,Flash Sale,0.39,0.01,2.97
+PROMO_126,Black Friday,0.39,0.09,2.97
+PROMO_127,Cyber Monday,0.39,0.0,2.97
+PROMO_128,Holiday Promo,0.39,0.09,2.97
+PROMO_129,Cyber Monday,0.39,0.06,2.97
+PROMO_130,Early Bird Discount,0.39,0.06,2.97
+PROMO_131,Limited Time Deal,0.39,0.01,2.97
+PROMO_132,Fall Clearance,0.39,0.01,2.97
+PROMO_133,Buy One Get One,0.39,0.01,2.97
+PROMO_134,Back to School,0.39,0.03,2.97
+PROMO_135,Bundle Offer,0.39,0.06,2.97
+PROMO_136,Summer Discount,0.39,0.04,2.97
+PROMO_137,Member Exclusive,0.39,0.08,2.97
+PROMO_138,End of Season,0.39,0.0,2.97
+PROMO_139,Member Exclusive,0.39,0.03,2.97
+PROMO_140,Fall Clearance,0.39,0.1,2.97
+PROMO_141,Limited Time Deal,0.39,0.02,2.97
+PROMO_142,Winter Special,0.39,0.01,2.97
+PROMO_143,Member Exclusive,0.39,0.07,2.97
+PROMO_144,Clearance Sale,0.39,0.08,2.97
+PROMO_145,Black Friday,0.39,0.06,2.97
+PROMO_146,End of Season,0.39,0.0,2.97
+PROMO_147,Flash Sale,0.39,0.1,2.97
+PROMO_148,Cyber Monday,0.39,0.06,2.97
+PROMO_149,Holiday Promo,0.39,0.1,2.97
+PROMO_150,Clearance Sale,0.39,0.05,2.97
+PROMO_151,Spring Sale,0.39,0.05,2.97
+PROMO_152,Fall Clearance,0.39,0.07,2.97
+PROMO_153,Winter Special,0.39,0.03,2.97
+PROMO_154,Summer Discount,0.39,0.05,2.97
+PROMO_155,New Year Deal,0.39,0.07,2.97
+PROMO_156,Member Exclusive,0.39,0.09,2.97
+PROMO_157,Member Exclusive,0.39,0.02,2.97
+PROMO_158,Spring Sale,0.39,0.02,2.97
+PROMO_159,End of Season,0.39,0.03,2.97
+PROMO_160,Free Shipping,0.39,0.09,2.97
+PROMO_161,Free Shipping,0.39,0.08,2.97
+PROMO_162,New Year Deal,0.39,0.07,2.97
+PROMO_163,Weekend Special,0.39,0.0,2.97
+PROMO_164,Back to School,0.39,0.05,2.97
+PROMO_165,End of Season,0.39,0.09,2.97
+PROMO_166,Early Bird Discount,0.39,0.01,2.97
+PROMO_167,Weekend Special,0.39,0.09,2.97
+PROMO_168,Seasonal Offer,0.39,0.0,2.97
+PROMO_169,Weekend Special,0.39,0.09,2.97
+PROMO_170,Clearance Sale,0.39,0.06,2.97
+PROMO_171,Clearance Sale,0.39,0.06,2.97
+PROMO_172,New Year Deal,0.39,0.01,2.97
+PROMO_173,Early Bird Discount,0.39,0.01,2.97
+PROMO_174,Seasonal Offer,0.39,0.01,2.97
+PROMO_175,Back to School,0.39,0.03,2.97
+PROMO_176,Fall Clearance,0.39,0.06,2.97
+PROMO_177,Spring Sale,0.39,0.04,2.97
+PROMO_178,Limited Time Deal,0.39,0.08,2.97
+PROMO_179,End of Season,0.39,0.0,2.97
+PROMO_180,Member Exclusive,0.39,0.03,2.97
+PROMO_181,Early Bird Discount,0.39,0.02,2.97
+PROMO_182,Clearance Sale,0.39,0.02,2.97
+PROMO_183,Seasonal Offer,0.39,0.03,2.97
+PROMO_184,Seasonal Offer,0.39,0.09,2.97
+PROMO_185,Limited Time Deal,0.39,0.08,2.97
+PROMO_186,Bundle Offer,0.39,0.07,2.97
+PROMO_187,Back to School,0.39,0.0,2.97
+PROMO_188,Black Friday,0.39,0.05,2.97
+PROMO_189,Early Bird Discount,0.39,0.09,2.97
+PROMO_190,Fall Clearance,0.39,0.01,2.97
+PROMO_191,Early Bird Discount,0.39,0.09,2.97
+PROMO_192,Seasonal Offer,0.39,0.0,2.97
+PROMO_193,Weekend Special,0.39,0.09,2.97
+PROMO_194,Clearance Sale,0.39,0.06,2.97
+PROMO_195,New Year Deal,0.39,0.06,2.97
+PROMO_196,New Year Deal,0.39,0.01,2.97
+PROMO_197,Early Bird Discount,0.39,0.01,2.97
+PROMO_198,End of Season,0.39,0.01,2.97
+PROMO_199,Limited Time Deal,0.39,0.03,2.97
+PROMO_200,New Year Deal,0.39,0.06,2.97
+PROMO_201,Bundle Offer,0.39,0.04,2.97
+PROMO_202,Cyber Monday,0.39,0.08,2.97
+PROMO_203,New Year Deal,0.39,0.0,2.97
+PROMO_204,Seasonal Offer,0.39,0.03,2.97
+PROMO_205,Limited Time Deal,0.39,0.1,2.97
+PROMO_206,Spring Sale,0.39,0.02,2.97
+PROMO_207,Limited Time Deal,0.39,0.01,2.97
+PROMO_208,Summer Discount,0.39,0.07,2.97
+PROMO_209,Summer Discount,0.39,0.08,2.97
+PROMO_210,End of Season,0.39,0.06,2.97
+PROMO_211,Bundle Offer,0.39,0.0,2.97
+PROMO_212,Bundle Offer,0.39,0.1,2.97
+PROMO_213,Free Shipping,0.39,0.06,2.97
+PROMO_214,Limited Time Deal,0.39,0.1,2.97
+PROMO_215,End of Season,0.39,0.05,2.97
+PROMO_216,Seasonal Offer,0.39,0.05,2.97
+PROMO_217,Spring Sale,0.39,0.07,2.97
+PROMO_218,Spring Sale,0.39,0.03,2.97
+PROMO_219,Summer Discount,0.39,0.05,2.97
+PROMO_220,Limited Time Deal,0.39,0.07,2.97
+PROMO_221,Limited Time Deal,0.39,0.09,2.97
+PROMO_222,Back to School,0.01,0.03,2.97
+PROMO_223,Black Friday,0.01,0.01,2.97
+PROMO_224,End of Season,0.01,0.1,2.97
+PROMO_225,Cyber Monday,0.01,0.0,2.97
+PROMO_226,Holiday Promo,0.01,0.08,2.97
+PROMO_227,Buy One Get One,0.01,0.0,2.97
+PROMO_228,Cyber Monday,0.01,0.05,2.97
+PROMO_229,Clearance Sale,0.01,0.02,2.97
+PROMO_230,Limited Time Deal,0.01,0.02,2.97
+PROMO_231,Clearance Sale,0.01,0.0,2.97
+PROMO_232,Black Friday,0.01,0.05,2.97
+PROMO_233,Early Bird Discount,0.01,0.02,2.97
+PROMO_234,Black Friday,0.01,0.05,2.97
+PROMO_235,Free Shipping,0.01,0.04,2.97
+PROMO_236,Free Shipping,0.01,0.01,2.97
+PROMO_237,Free Shipping,0.01,0.04,2.97
+PROMO_238,Clearance Sale,0.01,0.06,2.97
+PROMO_239,Fall Clearance,0.01,0.0,2.97
+PROMO_240,Fall Clearance,0.01,0.04,2.97
+PROMO_241,Back to School,0.01,0.09,2.97
+PROMO_242,Back to School,0.01,0.1,2.97
+PROMO_243,Clearance Sale,0.01,0.06,2.97
+PROMO_244,Summer Discount,0.01,0.07,2.97
+PROMO_245,Early Bird Discount,0.39,0.03,2.97
+PROMO_246,Early Bird Discount,0.39,0.01,2.97
+PROMO_247,Black Friday,0.39,0.1,2.97
+PROMO_248,Free Shipping,0.39,0.0,2.97
+PROMO_249,Holiday Promo,0.39,0.08,2.97
+PROMO_250,Back to School,0.39,0.0,2.97
+PROMO_251,Free Shipping,0.39,0.05,2.97
+PROMO_252,New Year Deal,0.39,0.02,2.97
+PROMO_253,Free Shipping,0.39,0.02,2.97
+PROMO_254,Bundle Offer,0.39,0.0,2.97
+PROMO_255,Summer Discount,0.39,0.05,2.97
+PROMO_256,Free Shipping,0.39,0.02,2.97
+PROMO_257,Holiday Promo,0.39,0.05,2.97
+PROMO_258,Member Exclusive,0.39,0.04,2.97
+PROMO_259,Spring Sale,0.39,0.01,2.97
+PROMO_260,Clearance Sale,0.39,0.04,2.97
+PROMO_261,Spring Sale,0.39,0.06,2.97
+PROMO_262,Flash Sale,0.39,0.0,2.97
+PROMO_263,End of Season,0.39,0.04,2.97
+PROMO_264,Limited Time Deal,0.39,0.09,2.97
+PROMO_265,Seasonal Offer,0.39,0.1,2.97
+PROMO_266,Member Exclusive,0.39,0.06,2.97
+PROMO_267,Seasonal Offer,0.39,0.07,2.97
+PROMO_268,Seasonal Offer,2.2,0.03,19.78
+PROMO_269,Flash Sale,2.2,0.01,19.78
+PROMO_270,Bundle Offer,2.2,0.1,19.78
+PROMO_271,End of Season,2.2,0.0,19.78
+PROMO_272,Flash Sale,2.2,0.08,19.78
+PROMO_273,Summer Discount,2.2,0.0,19.78
+PROMO_274,Member Exclusive,2.2,0.05,19.78
+PROMO_275,Summer Discount,2.2,0.02,19.78
+PROMO_276,Black Friday,2.2,0.02,19.78
+PROMO_277,Weekend Special,2.2,0.0,19.78
+PROMO_278,Back to School,2.2,0.05,19.78
+PROMO_279,Seasonal Offer,2.2,0.02,19.78
+PROMO_280,Cyber Monday,2.2,0.05,19.78
+PROMO_281,Cyber Monday,2.2,0.04,19.78
+PROMO_282,Early Bird Discount,2.2,0.01,19.78
+PROMO_283,Spring Sale,2.2,0.04,19.78
+PROMO_284,Seasonal Offer,2.2,0.06,19.78
+PROMO_285,Fall Clearance,2.2,0.0,19.78
+PROMO_286,Weekend Special,2.2,0.04,19.78
+PROMO_287,Member Exclusive,2.2,0.09,19.78
+PROMO_288,Winter Special,2.2,0.1,19.78
+PROMO_289,Member Exclusive,2.2,0.06,19.78
+PROMO_290,Fall Clearance,2.2,0.07,19.78
+PROMO_291,Free Shipping,0.26,0.03,2.08
+PROMO_292,Seasonal Offer,0.26,0.01,2.08
+PROMO_293,Black Friday,0.26,0.1,2.08
+PROMO_294,Flash Sale,0.26,0.0,2.08
+PROMO_295,Early Bird Discount,0.26,0.08,2.08
+PROMO_296,Member Exclusive,0.26,0.0,2.08
+PROMO_297,Black Friday,0.26,0.05,2.08
+PROMO_298,Member Exclusive,0.26,0.02,2.08
+PROMO_299,Weekend Special,0.26,0.02,2.08
+PROMO_300,Seasonal Offer,0.26,0.0,2.08
+PROMO_301,Limited Time Deal,0.26,0.05,2.08
+PROMO_302,Cyber Monday,0.26,0.02,2.08
+PROMO_303,Clearance Sale,0.26,0.05,2.08
+PROMO_304,Early Bird Discount,0.26,0.04,2.08
+PROMO_305,Bundle Offer,0.26,0.01,2.08
+PROMO_306,Early Bird Discount,0.26,0.04,2.08
+PROMO_307,Limited Time Deal,0.26,0.06,2.08
+PROMO_308,Weekend Special,0.26,0.0,2.08
+PROMO_309,Clearance Sale,0.26,0.04,2.08
+PROMO_310,Back to School,0.26,0.09,2.08
+PROMO_311,Early Bird Discount,0.26,0.1,2.08
+PROMO_312,Holiday Promo,0.26,0.06,2.08
+PROMO_313,Buy One Get One,0.26,0.07,2.08
+PROMO_314,Buy One Get One,0.26,0.03,2.08
+PROMO_315,Bundle Offer,0.26,0.01,2.08
+PROMO_316,Flash Sale,0.26,0.1,2.08
+PROMO_317,Winter Special,0.26,0.0,2.08
+PROMO_318,Early Bird Discount,0.26,0.08,2.08
+PROMO_319,Weekend Special,0.26,0.0,2.08
+PROMO_320,Bundle Offer,0.26,0.05,2.08
+PROMO_321,Cyber Monday,0.26,0.02,2.08
+PROMO_322,Clearance Sale,0.26,0.02,2.08
+PROMO_323,New Year Deal,0.26,0.0,2.08
+PROMO_324,Seasonal Offer,0.26,0.05,2.08
+PROMO_325,Spring Sale,0.26,0.02,2.08
+PROMO_326,Winter Special,0.26,0.05,2.08
+PROMO_327,New Year Deal,0.26,0.04,2.08
+PROMO_328,End of Season,0.26,0.01,2.08
+PROMO_329,Free Shipping,0.26,0.04,2.08
+PROMO_330,Back to School,0.26,0.06,2.08
+PROMO_331,Fall Clearance,0.26,0.0,2.08
+PROMO_332,Winter Special,0.26,0.04,2.08
+PROMO_333,Back to School,0.26,0.09,2.08
+PROMO_334,Black Friday,0.26,0.1,2.08
+PROMO_335,Clearance Sale,0.26,0.06,2.08
+PROMO_336,Winter Special,0.26,0.07,2.08
+PROMO_337,Flash Sale,0.26,0.03,2.08
+PROMO_338,End of Season,0.26,0.01,2.08
+PROMO_339,Back to School,0.26,0.1,2.08
+PROMO_340,Buy One Get One,0.26,0.0,2.08
+PROMO_341,Early Bird Discount,0.26,0.08,2.08
+PROMO_342,Seasonal Offer,0.26,0.0,2.08
+PROMO_343,End of Season,0.26,0.05,2.08
+PROMO_344,Flash Sale,0.26,0.02,2.08
+PROMO_345,Black Friday,0.26,0.02,2.08
+PROMO_346,Summer Discount,0.26,0.0,2.08
+PROMO_347,Holiday Promo,0.26,0.05,2.08
+PROMO_348,Seasonal Offer,0.26,0.02,2.08
+PROMO_349,Weekend Special,0.26,0.05,2.08
+PROMO_350,Buy One Get One,0.26,0.04,2.08
+PROMO_351,End of Season,0.26,0.01,2.08
+PROMO_352,Flash Sale,0.26,0.04,2.08
+PROMO_353,Holiday Promo,0.26,0.06,2.08
+PROMO_354,Weekend Special,0.26,0.0,2.08
+PROMO_355,Spring Sale,0.26,0.04,2.08
+PROMO_356,Seasonal Offer,0.26,0.09,2.08
+PROMO_357,Flash Sale,0.26,0.1,2.08
+PROMO_358,Clearance Sale,0.26,0.06,2.08
+PROMO_359,Spring Sale,0.26,0.07,2.08
+PROMO_360,Black Friday,0.39,0.03,2.97
+PROMO_361,Clearance Sale,0.39,0.01,2.97
+PROMO_362,Winter Special,0.39,0.1,2.97
+PROMO_363,Seasonal Offer,0.39,0.0,2.97
+PROMO_364,Summer Discount,0.39,0.08,2.97
+PROMO_365,End of Season,0.39,0.0,2.97
+PROMO_366,Member Exclusive,0.39,0.05,2.97
+PROMO_367,Bundle Offer,0.39,0.02,2.97
+PROMO_368,Early Bird Discount,0.39,0.02,2.97
+PROMO_369,New Year Deal,0.39,0.0,2.97
+PROMO_370,Seasonal Offer,0.39,0.05,2.97
+PROMO_371,Black Friday,0.39,0.02,2.97
+PROMO_372,Bundle Offer,0.39,0.05,2.97
+PROMO_373,New Year Deal,0.39,0.04,2.97
+PROMO_374,Seasonal Offer,0.39,0.01,2.97
+PROMO_375,Buy One Get One,0.39,0.04,2.97
+PROMO_376,Holiday Promo,0.39,0.06,2.97
+PROMO_377,Black Friday,0.39,0.0,2.97
+PROMO_378,Winter Special,0.39,0.04,2.97
+PROMO_379,Member Exclusive,0.39,0.09,2.97
+PROMO_380,Early Bird Discount,0.39,0.1,2.97
+PROMO_381,Weekend Special,0.39,0.06,2.97
+PROMO_382,Member Exclusive,0.39,0.07,2.97
+PROMO_383,Buy One Get One,0.39,0.02,2.97
+PROMO_384,Winter Special,0.39,0.02,2.97
+PROMO_385,Black Friday,0.39,0.03,2.97
+PROMO_386,Cyber Monday,0.39,0.09,2.97
+PROMO_387,Black Friday,0.39,0.08,2.97
+PROMO_388,Flash Sale,0.39,0.07,2.97
+PROMO_389,Seasonal Offer,0.39,0.0,2.97
+PROMO_390,Member Exclusive,0.39,0.05,2.97
+PROMO_391,Free Shipping,0.39,0.09,2.97
+PROMO_392,Buy One Get One,0.39,0.01,2.97
+PROMO_393,Seasonal Offer,0.39,0.09,2.97
+PROMO_394,Buy One Get One,0.39,0.0,2.97
+PROMO_395,Free Shipping,0.39,0.09,2.97
+PROMO_396,Bundle Offer,0.39,0.06,2.97
+PROMO_397,Weekend Special,0.39,0.06,2.97
+PROMO_398,Limited Time Deal,0.39,0.01,2.97
+PROMO_399,Spring Sale,0.39,0.01,2.97
+PROMO_400,Cyber Monday,0.39,0.01,2.97
+PROMO_401,Holiday Promo,0.39,0.03,2.97
+PROMO_402,Seasonal Offer,0.39,0.06,2.97
+PROMO_403,Member Exclusive,0.39,0.04,2.97
+PROMO_404,Weekend Special,0.39,0.08,2.97
+PROMO_405,Black Friday,0.39,0.0,2.97
+PROMO_406,Back to School,0.39,0.03,2.97
+PROMO_407,Seasonal Offer,0.39,0.1,2.97
+PROMO_408,Limited Time Deal,0.39,0.02,2.97
+PROMO_409,Spring Sale,0.39,0.01,2.97
+PROMO_410,Back to School,0.39,0.07,2.97
+PROMO_411,New Year Deal,0.39,0.08,2.97
+PROMO_412,Cyber Monday,0.39,0.06,2.97
+PROMO_413,Free Shipping,0.39,0.0,2.97
+PROMO_414,Spring Sale,0.39,0.1,2.97
+PROMO_415,Limited Time Deal,0.39,0.06,2.97
+PROMO_416,Limited Time Deal,0.39,0.1,2.97
+PROMO_417,Weekend Special,0.39,0.05,2.97
+PROMO_418,Fall Clearance,0.39,0.05,2.97
+PROMO_419,Seasonal Offer,0.39,0.07,2.97
+PROMO_420,Limited Time Deal,0.39,0.03,2.97
+PROMO_421,Cyber Monday,0.39,0.05,2.97
+PROMO_422,Fall Clearance,0.39,0.07,2.97
+PROMO_423,End of Season,0.39,0.09,2.97
+PROMO_424,Winter Special,0.39,0.02,2.97
+PROMO_425,Early Bird Discount,0.39,0.02,2.97
+PROMO_426,End of Season,0.39,0.03,2.97
+PROMO_427,Limited Time Deal,0.39,0.09,2.97
+PROMO_428,New Year Deal,0.39,0.08,2.97
+PROMO_429,Buy One Get One,0.39,0.07,2.97
+PROMO_430,Bundle Offer,0.39,0.0,2.97
+PROMO_431,Bundle Offer,0.39,0.05,2.97
+PROMO_432,Buy One Get One,0.39,0.09,2.97
+PROMO_433,Winter Special,0.39,0.01,2.97
+PROMO_434,End of Season,0.39,0.09,2.97
+PROMO_435,Seasonal Offer,0.39,0.0,2.97
+PROMO_436,Black Friday,0.39,0.09,2.97
+PROMO_437,Free Shipping,0.39,0.06,2.97
+PROMO_438,Member Exclusive,0.39,0.06,2.97
+PROMO_439,Member Exclusive,0.39,0.01,2.97
+PROMO_440,Flash Sale,0.39,0.01,2.97
+PROMO_441,Member Exclusive,0.39,0.01,2.97
+PROMO_442,End of Season,0.39,0.03,2.97
+PROMO_443,Seasonal Offer,0.39,0.06,2.97
+PROMO_444,Winter Special,0.39,0.04,2.97
+PROMO_445,Member Exclusive,0.39,0.08,2.97
+PROMO_446,Holiday Promo,0.39,0.0,2.97
+PROMO_447,Member Exclusive,0.39,0.03,2.97
+PROMO_448,Free Shipping,0.39,0.1,2.97
+PROMO_449,Holiday Promo,0.39,0.02,2.97
+PROMO_450,Spring Sale,0.39,0.01,2.97
+PROMO_451,New Year Deal,0.01,0.03,2.97
+PROMO_452,Buy One Get One,0.01,0.01,2.97
+PROMO_453,Bundle Offer,0.01,0.1,2.97
+PROMO_454,Black Friday,0.01,0.0,2.97
+PROMO_455,Weekend Special,0.01,0.08,2.97
+PROMO_456,Member Exclusive,0.01,0.0,2.97
+PROMO_457,Holiday Promo,0.01,0.05,2.97
+PROMO_458,Summer Discount,0.01,0.02,2.97
+PROMO_459,New Year Deal,0.01,0.02,2.97
+PROMO_460,Winter Special,0.01,0.0,2.97
+PROMO_461,Spring Sale,0.01,0.05,2.97
+PROMO_462,Weekend Special,0.01,0.02,2.97
+PROMO_463,Free Shipping,0.01,0.05,2.97
+PROMO_464,Summer Discount,0.01,0.04,2.97
+PROMO_465,Summer Discount,0.01,0.01,2.97
+PROMO_466,New Year Deal,0.01,0.04,2.97
+PROMO_467,Flash Sale,0.01,0.06,2.97
+PROMO_468,Seasonal Offer,0.01,0.0,2.97
+PROMO_469,Winter Special,0.01,0.04,2.97
+PROMO_470,Spring Sale,0.01,0.09,2.97
+PROMO_471,Black Friday,0.01,0.1,2.97
+PROMO_472,Flash Sale,0.01,0.06,2.97
+PROMO_473,Cyber Monday,0.01,0.07,2.97
+PROMO_474,Member Exclusive,0.39,0.03,2.97
+PROMO_475,Seasonal Offer,0.39,0.01,2.97
+PROMO_476,Summer Discount,0.39,0.1,2.97
+PROMO_477,Bundle Offer,0.39,0.0,2.97
+PROMO_478,Bundle Offer,0.39,0.08,2.97
+PROMO_479,Bundle Offer,0.39,0.0,2.97
+PROMO_480,Early Bird Discount,0.39,0.05,2.97
+PROMO_481,New Year Deal,0.39,0.02,2.97
+PROMO_482,Clearance Sale,0.39,0.02,2.97
+PROMO_483,Winter Special,0.39,0.0,2.97
+PROMO_484,Cyber Monday,0.39,0.05,2.97
+PROMO_485,Holiday Promo,0.39,0.02,2.97
+PROMO_486,Holiday Promo,0.39,0.05,2.97
+PROMO_487,Black Friday,0.39,0.04,2.97
+PROMO_488,Holiday Promo,0.39,0.01,2.97
+PROMO_489,Flash Sale,0.39,0.04,2.97
+PROMO_490,New Year Deal,0.39,0.06,2.97
+PROMO_491,End of Season,0.39,0.0,2.97
+PROMO_492,Summer Discount,0.39,0.04,2.97
+PROMO_493,Spring Sale,0.39,0.09,2.97
+PROMO_494,Summer Discount,0.39,0.1,2.97
+PROMO_495,Buy One Get One,0.39,0.06,2.97
+PROMO_496,Holiday Promo,0.39,0.07,2.97
+PROMO_497,Free Shipping,0.26,0.03,2.08
+PROMO_498,Summer Discount,0.26,0.01,2.08
+PROMO_499,Winter Special,0.26,0.1,2.08
+PROMO_500,Fall Clearance,0.26,0.0,2.08
+PROMO_501,Winter Special,0.26,0.08,2.08
+PROMO_502,End of Season,0.26,0.0,2.08
+PROMO_503,New Year Deal,0.26,0.05,2.08
+PROMO_504,New Year Deal,0.26,0.02,2.08
+PROMO_505,Buy One Get One,0.26,0.02,2.08
+PROMO_506,Black Friday,0.26,0.0,2.08
+PROMO_507,Flash Sale,0.26,0.05,2.08
+PROMO_508,Free Shipping,0.26,0.02,2.08
+PROMO_509,Limited Time Deal,0.26,0.05,2.08
+PROMO_510,Winter Special,0.26,0.04,2.08
+PROMO_511,Early Bird Discount,0.26,0.01,2.08
+PROMO_512,Winter Special,0.26,0.04,2.08
+PROMO_513,Seasonal Offer,0.26,0.06,2.08
+PROMO_514,Free Shipping,0.26,0.0,2.08
+PROMO_515,Weekend Special,0.26,0.04,2.08
+PROMO_516,Flash Sale,0.26,0.09,2.08
+PROMO_517,Winter Special,0.26,0.1,2.08
+PROMO_518,Weekend Special,0.26,0.06,2.08
+PROMO_519,Winter Special,0.26,0.07,2.08
+PROMO_520,Back to School,2.2,0.03,19.78
+PROMO_521,Clearance Sale,2.2,0.01,19.78
+PROMO_522,Member Exclusive,2.2,0.1,19.78
+PROMO_523,Summer Discount,2.2,0.0,19.78
+PROMO_524,Summer Discount,2.2,0.08,19.78
+PROMO_525,Clearance Sale,2.2,0.0,19.78
+PROMO_526,Spring Sale,2.2,0.05,19.78
+PROMO_527,Black Friday,2.2,0.02,19.78
+PROMO_528,New Year Deal,2.2,0.02,19.78
+PROMO_529,Seasonal Offer,2.2,0.0,19.78
+PROMO_530,Black Friday,2.2,0.05,19.78
+PROMO_531,Member Exclusive,2.2,0.02,19.78
+PROMO_532,Early Bird Discount,2.2,0.05,19.78
+PROMO_533,Member Exclusive,2.2,0.04,19.78
+PROMO_534,Weekend Special,2.2,0.01,19.78
+PROMO_535,Bundle Offer,2.2,0.04,19.78
+PROMO_536,Back to School,2.2,0.06,19.78
+PROMO_537,Free Shipping,2.2,0.0,19.78
+PROMO_538,Limited Time Deal,2.2,0.04,19.78
+PROMO_539,Fall Clearance,2.2,0.09,19.78
+PROMO_540,Summer Discount,2.2,0.1,19.78
+PROMO_541,Black Friday,2.2,0.06,19.78
+PROMO_542,Bundle Offer,2.2,0.07,19.78
+PROMO_543,Flash Sale,0.26,0.03,2.08
+PROMO_544,Winter Special,0.26,0.01,2.08
+PROMO_545,Summer Discount,0.26,0.1,2.08
+PROMO_546,Early Bird Discount,0.26,0.0,2.08
+PROMO_547,Cyber Monday,0.26,0.08,2.08
+PROMO_548,Seasonal Offer,0.26,0.0,2.08
+PROMO_549,End of Season,0.26,0.05,2.08
+PROMO_550,Weekend Special,0.26,0.02,2.08
+PROMO_551,Cyber Monday,0.26,0.02,2.08
+PROMO_552,Member Exclusive,0.26,0.0,2.08
+PROMO_553,Summer Discount,0.26,0.05,2.08
+PROMO_554,Limited Time Deal,0.26,0.02,2.08
+PROMO_555,Bundle Offer,0.26,0.05,2.08
+PROMO_556,Flash Sale,0.26,0.04,2.08
+PROMO_557,Summer Discount,0.26,0.01,2.08
+PROMO_558,Back to School,0.26,0.04,2.08
+PROMO_559,Cyber Monday,0.26,0.06,2.08
+PROMO_560,Limited Time Deal,0.26,0.0,2.08
+PROMO_561,Clearance Sale,0.26,0.04,2.08
+PROMO_562,Winter Special,0.26,0.09,2.08
+PROMO_563,Limited Time Deal,0.26,0.1,2.08
+PROMO_564,Back to School,0.26,0.06,2.08
+PROMO_565,Bundle Offer,0.26,0.07,2.08
+PROMO_566,Clearance Sale,0.26,0.03,2.08
+PROMO_567,Spring Sale,0.26,0.01,2.08
+PROMO_568,Weekend Special,0.26,0.1,2.08
+PROMO_569,Fall Clearance,0.26,0.0,2.08
+PROMO_570,Seasonal Offer,0.26,0.08,2.08
+PROMO_571,Summer Discount,0.26,0.0,2.08
+PROMO_572,Flash Sale,0.26,0.05,2.08
+PROMO_573,End of Season,0.26,0.02,2.08
+PROMO_574,Seasonal Offer,0.26,0.02,2.08
+PROMO_575,Spring Sale,0.26,0.0,2.08
+PROMO_576,Black Friday,0.26,0.05,2.08
+PROMO_577,Free Shipping,0.26,0.02,2.08
+PROMO_578,Flash Sale,0.26,0.05,2.08
+PROMO_579,Back to School,0.26,0.04,2.08
+PROMO_580,Fall Clearance,0.26,0.01,2.08
+PROMO_581,Black Friday,0.26,0.04,2.08
+PROMO_582,Clearance Sale,0.26,0.06,2.08
+PROMO_583,Buy One Get One,0.26,0.0,2.08
+PROMO_584,Fall Clearance,0.26,0.04,2.08
+PROMO_585,Seasonal Offer,0.26,0.09,2.08
+PROMO_586,New Year Deal,0.26,0.1,2.08
+PROMO_587,Flash Sale,0.26,0.06,2.08
+PROMO_588,Buy One Get One,0.26,0.07,2.08
+PROMO_589,Free Shipping,0.39,0.03,2.97
+PROMO_590,Flash Sale,0.39,0.01,2.97
+PROMO_591,Flash Sale,0.39,0.1,2.97
+PROMO_592,Fall Clearance,0.39,0.0,2.97
+PROMO_593,Seasonal Offer,0.39,0.08,2.97
+PROMO_594,Seasonal Offer,0.39,0.0,2.97
+PROMO_595,Flash Sale,0.39,0.05,2.97
+PROMO_596,Back to School,0.39,0.02,2.97
+PROMO_597,Flash Sale,0.39,0.02,2.97
+PROMO_598,Buy One Get One,0.39,0.0,2.97
+PROMO_599,Weekend Special,0.39,0.05,2.97
+PROMO_600,Spring Sale,0.39,0.02,2.97
+PROMO_601,Early Bird Discount,0.39,0.05,2.97
+PROMO_602,Holiday Promo,0.39,0.04,2.97
+PROMO_603,Holiday Promo,0.39,0.01,2.97
+PROMO_604,Back to School,0.39,0.04,2.97
+PROMO_605,Free Shipping,0.39,0.06,2.97
+PROMO_606,Early Bird Discount,0.39,0.0,2.97
+PROMO_607,Black Friday,0.39,0.04,2.97
+PROMO_608,Bundle Offer,0.39,0.09,2.97
+PROMO_609,Cyber Monday,0.39,0.1,2.97
+PROMO_610,Flash Sale,0.39,0.06,2.97
+PROMO_611,Flash Sale,0.39,0.07,2.97
+PROMO_612,New Year Deal,0.39,0.02,2.97
+PROMO_613,Seasonal Offer,0.39,0.02,2.97
+PROMO_614,Black Friday,0.39,0.03,2.97
+PROMO_615,Spring Sale,0.39,0.09,2.97
+PROMO_616,Winter Special,0.39,0.08,2.97
+PROMO_617,Seasonal Offer,0.39,0.07,2.97
+PROMO_618,End of Season,0.39,0.0,2.97
+PROMO_619,End of Season,0.39,0.05,2.97
+PROMO_620,Clearance Sale,0.39,0.09,2.97
+PROMO_621,Weekend Special,0.39,0.01,2.97
+PROMO_622,Bundle Offer,0.39,0.09,2.97
+PROMO_623,Bundle Offer,0.39,0.0,2.97
+PROMO_624,Black Friday,0.39,0.09,2.97
+PROMO_625,Early Bird Discount,0.39,0.06,2.97
+PROMO_626,Spring Sale,0.39,0.06,2.97
+PROMO_627,Winter Special,0.39,0.01,2.97
+PROMO_628,Spring Sale,0.39,0.01,2.97
+PROMO_629,Free Shipping,0.39,0.01,2.97
+PROMO_630,Holiday Promo,0.39,0.03,2.97
+PROMO_631,Bundle Offer,0.39,0.06,2.97
+PROMO_632,Summer Discount,0.39,0.04,2.97
+PROMO_633,Free Shipping,0.39,0.08,2.97
+PROMO_634,Black Friday,0.39,0.0,2.97
+PROMO_635,Flash Sale,0.39,0.03,2.97
+PROMO_636,Black Friday,0.39,0.1,2.97
+PROMO_637,Flash Sale,0.39,0.02,2.97
+PROMO_638,Summer Discount,0.39,0.01,2.97
+PROMO_639,Flash Sale,0.39,0.07,2.97
+PROMO_640,Black Friday,0.39,0.08,2.97
+PROMO_641,Winter Special,0.39,0.06,2.97
+PROMO_642,Summer Discount,0.39,0.0,2.97
+PROMO_643,Member Exclusive,0.39,0.1,2.97
+PROMO_644,Cyber Monday,0.39,0.06,2.97
+PROMO_645,Summer Discount,0.39,0.1,2.97
+PROMO_646,Limited Time Deal,0.39,0.05,2.97
+PROMO_647,Back to School,0.39,0.05,2.97
+PROMO_648,Holiday Promo,0.39,0.07,2.97
+PROMO_649,Free Shipping,0.39,0.03,2.97
+PROMO_650,Limited Time Deal,0.39,0.05,2.97
+PROMO_651,Holiday Promo,0.39,0.07,2.97
+PROMO_652,New Year Deal,0.39,0.09,2.97
+PROMO_653,Back to School,0.39,0.02,2.97
+PROMO_654,Limited Time Deal,0.39,0.02,2.97
+PROMO_655,Limited Time Deal,0.39,0.03,2.97
+PROMO_656,Holiday Promo,0.39,0.09,2.97
+PROMO_657,New Year Deal,0.39,0.08,2.97
+PROMO_658,Clearance Sale,0.39,0.07,2.97
+PROMO_659,Fall Clearance,0.39,0.0,2.97
+PROMO_660,Back to School,0.39,0.05,2.97
+PROMO_661,Holiday Promo,0.39,0.09,2.97
+PROMO_662,Bundle Offer,0.39,0.01,2.97
+PROMO_663,Cyber Monday,0.39,0.09,2.97
+PROMO_664,End of Season,0.39,0.0,2.97
+PROMO_665,Clearance Sale,0.39,0.09,2.97
+PROMO_666,Free Shipping,0.39,0.06,2.97
+PROMO_667,Bundle Offer,0.39,0.06,2.97
+PROMO_668,Bundle Offer,0.39,0.01,2.97
+PROMO_669,Summer Discount,0.39,0.01,2.97
+PROMO_670,Clearance Sale,0.39,0.01,2.97
+PROMO_671,Fall Clearance,0.39,0.03,2.97
+PROMO_672,Bundle Offer,0.39,0.06,2.97
+PROMO_673,Clearance Sale,0.39,0.04,2.97
+PROMO_674,Clearance Sale,0.39,0.08,2.97
+PROMO_675,Cyber Monday,0.39,0.0,2.97
+PROMO_676,Summer Discount,0.39,0.03,2.97
