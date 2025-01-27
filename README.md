@@ -76,6 +76,4 @@ For any inquiries, feel free to contact us:
 - Saif Chouaya: [saif.chouaya@tbs.u-tunis.tn](mailto:saif.chouaya@tbs.u-tunis.tn)
 - Eya Hafsi: [e.hafsii@gmail.com](mailto:e.hafsii@gmail.com)
 - Mohamed Rayen Fadhlaoui: [fadhlaouirayen@gmail.com](mailto:fadhlaouirayen@gmail.com)
-
-## Project Repository
-Visit the [GitHub Repository](https://github.com/ChouayaSaif/Walmart-Sales-Analysis-BI-Project) for more details.
+- Sayda Ouaddar: [Saydaouaddar@gmail.com](mailto:Saydaouaddar@gmail.com)
